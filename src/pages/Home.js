@@ -58,10 +58,6 @@ determined to make the most of my technical skills and leverage the goals & ambi
             <h2> Interpersonal Skills </h2>
             <span>Team Player, Prioritizing, Quick learner, Decision Making, Integrity</span>
           </li>
-          <li className='item'>
-            <h2> Interpersonal Skills </h2>
-            <span>Team Player, Prioritizing, Quick learner, Decision Making, Integrity</span>
-          </li>
         </ol>
       </div>
     </div>
