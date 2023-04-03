@@ -23,7 +23,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://madhav1999.github.io/portfolio/",
+  "homepage": "https://madhav1999.github.io/portfolio.github.io/",
   "eslintConfig": {
     "extends": [
       "react-app",
