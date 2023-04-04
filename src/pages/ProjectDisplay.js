@@ -17,7 +17,7 @@ function ProjectDisplay() {
   return (
     <div className="project">
         <h1> {project.name} </h1>
-        <img style={{ width: '500px', height: '450px' }} src={project.image} />
+        <img style={{ maxWidth: '100%', maxHeight: '100%', height: 'auto' }} src={project.image} />
         <p>
             <b>Skills</b>: {project.skills}
         </p>
