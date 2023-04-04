@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d73e887.css",
-    "main.js": "/static/js/main.65bf7e2e.js",
-    "static/js/787.749b4a44.chunk.js": "/static/js/787.749b4a44.chunk.js",
-    "static/media/grocery.png": "/static/media/grocery.6a39321f4bc0cb38a65e.png",
-    "static/media/ratingcalculator.png": "/static/media/ratingcalculator.fdfefeaa2578bb2da61b.png",
-    "static/media/tarastrength.jpg": "/static/media/tarastrength.d0708545d0ce3b80f087.jpg",
-    "static/media/product_price_actual.png": "/static/media/product_price_actual.63b1c71b00e0a25d911f.png",
-    "static/media/bs_jquery_dictionary.jpg": "/static/media/bs_jquery_dictionary.38cb5f4032fdf9ed57be.jpg",
-    "static/media/pharmarestapi.png": "/static/media/pharmarestapi.87f159cbade040856e30.png",
-    "static/media/appointment.jpg": "/static/media/appointment.7d6aaae43da9c968d7fc.jpg",
-    "index.html": "/index.html",
-    "main.4d73e887.css.map": "/static/css/main.4d73e887.css.map",
-    "main.65bf7e2e.js.map": "/static/js/main.65bf7e2e.js.map",
-    "787.749b4a44.chunk.js.map": "/static/js/787.749b4a44.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.4d73e887.css",
+    "main.js": "/portfolio/static/js/main.41ea39ee.js",
+    "static/js/787.749b4a44.chunk.js": "/portfolio/static/js/787.749b4a44.chunk.js",
+    "static/media/grocery.png": "/portfolio/static/media/grocery.6a39321f4bc0cb38a65e.png",
+    "static/media/ratingcalculator.png": "/portfolio/static/media/ratingcalculator.fdfefeaa2578bb2da61b.png",
+    "static/media/tarastrength.jpg": "/portfolio/static/media/tarastrength.d0708545d0ce3b80f087.jpg",
+    "static/media/product_price_actual.png": "/portfolio/static/media/product_price_actual.63b1c71b00e0a25d911f.png",
+    "static/media/bs_jquery_dictionary.jpg": "/portfolio/static/media/bs_jquery_dictionary.38cb5f4032fdf9ed57be.jpg",
+    "static/media/pharmarestapi.png": "/portfolio/static/media/pharmarestapi.87f159cbade040856e30.png",
+    "static/media/appointment.jpg": "/portfolio/static/media/appointment.7d6aaae43da9c968d7fc.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.4d73e887.css.map": "/portfolio/static/css/main.4d73e887.css.map",
+    "main.41ea39ee.js.map": "/portfolio/static/js/main.41ea39ee.js.map",
+    "787.749b4a44.chunk.js.map": "/portfolio/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d73e887.css",
-    "static/js/main.65bf7e2e.js"
+    "static/js/main.41ea39ee.js"
   ]
 }
