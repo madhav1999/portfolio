@@ -16,9 +16,9 @@ function ProjectDisplay() {
       };
   return (
     <div className="project">
-        <h1> {project.name} </h1>
-        <img style={{ maxWidth: '100%', maxHeight: '100%', height: 'auto' }} src={project.image} />
-        <p>
+        <h1 style={{ fontSize: '4vw' }}> {project.name} </h1>
+        <img style={{ maxWidth: '50%', maxHeight: '50%', height: 'auto' }} src={project.image} />
+        <p style={{ fontSize: '2.5vw' }}>
             <b>Skills</b>: {project.skills}
         </p>
         <IconButton>
