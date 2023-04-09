@@ -1,0 +1,29 @@
+.scroll-down-indicator {
+    position: absolute;
+    bottom: 0;
+    right: 0%;
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .scroll-down-indicator p {
+    color: #fff;
+    font-size: 16px;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .scroll-down-indicator {
+      width: 100%;
+      text-align: center;
+    }
+    
+    .scroll-down-indicator p {
+      font-size: 14px;
+      margin: 0;
+    }
+  }
+  

@@ -18,7 +18,7 @@ function Footer() {
         <GithubIcon onClick={() => handleClick('github')}/>
         <LinkedInIcon onClick={() => handleClick('linkedin')}/>
       </div>
-      <p> &copy; Madhav Kotha developed using <b>ReactJS</b></p>
+      <p> &copy; Madhav Kotha</p>
     </div>
   );
 }

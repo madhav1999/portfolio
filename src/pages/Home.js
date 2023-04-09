@@ -4,6 +4,7 @@ import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import EmailIcon from "@material-ui/icons/Email";
 import "../styles/Home.css";
 import IconButton from '@material-ui/core/IconButton';
+import ScrollDownIndicator from '../components/ScrollDownIndicator';
 
 
 function Home() {
@@ -37,6 +38,8 @@ function Home() {
           <IconButton>
             <EmailIcon onClick={() => handleClick('mail')}/>
           </IconButton>
+
+          <ScrollDownIndicator />
           
 
         </div>
