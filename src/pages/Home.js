@@ -25,9 +25,7 @@ function Home() {
             <br></br>
             <br></br>
             {/* <br></br> */}
-            A curious learner and self motivated IT professional with 2+ years of experience in Software development in Python who
-determined to make the most of my technical skills and leverage the goals & ambitions of the organization
-
+            Experienced Python developer with 2+ years of expertise in software development and CI/CD processes. Committed to delivering high-quality software products through continuous learning and improvement.
           </p>
           
           <IconButton style={{ color: 'black' }}>
@@ -48,7 +46,7 @@ determined to make the most of my technical skills and leverage the goals & ambi
         <ol className='list'>
           <li className='item'>
             <h2> Technical Skills</h2>
-            <span>Python, DataStructures, Django, HTML, CSS, Javascript, Jquery, MySQL, RHEL, Bash, Linux, C++, Microservices, Networking, CI/CD, ReactJS, Java </span>
+            <span>Python, DataStructures, Django, HTML, CSS, Javascript, Jquery, MySQL, RHEL, Bash, Linux, C++, Problem Solving skills, Microservices, Networking, CI/CD, ReactJS, Java </span>
           </li>
           <li className='item'>
             <h2> Tools </h2>
